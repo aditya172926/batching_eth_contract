@@ -25,4 +25,4 @@ Find the executed batch transaction response on this [link](https://sepolia.ethe
 - BatchContract Address - 0xb8cBB6a9965A851Dcb88Bb1734231c531a0bcdF1
 
 ## Credits
-The BatchTransferContract is an extension of this opensource [repository](https://github.com/divyalalwani)
+The BatchTransferContract is an extension of this opensource [repository](https://github.com/divyalalwani/Batch-Contract)
