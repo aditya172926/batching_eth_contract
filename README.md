@@ -25,9 +25,9 @@ Find the executed batch transaction response on this [link](https://sepolia.ethe
 - BatchContract Address - 0xb8cBB6a9965A851Dcb88Bb1734231c531a0bcdF1
 
 ## Contracts are verified on Blockscout
-- [BatchContract.sol](https://optimism-sepolia.blockscout.com/address/0x909e24D7e79F45937705e8A8899aa52255bB3E1F#code)
-- [BatchTransferContract](https://optimism-sepolia.blockscout.com/address/0xd7aeb1fCACBC7fc2C34A27d71B61DbBe043aC97E#code)
-- [Token Contract](https://optimism-sepolia.blockscout.com/address/0xb65aA0c58B7F0Cd8D07fba21A2daDC8667326629#code)
+- BatchContract.sol: [0x909e24D7e79F45937705e8A8899aa52255bB3E1F](https://optimism-sepolia.blockscout.com/address/0x909e24D7e79F45937705e8A8899aa52255bB3E1F#code)
+- BatchTransferContract: [0xd7aeb1fCACBC7fc2C34A27d71B61DbBe043aC97E](https://optimism-sepolia.blockscout.com/address/0xd7aeb1fCACBC7fc2C34A27d71B61DbBe043aC97E#code)
+- Token Contract: [0xb65aA0c58B7F0Cd8D07fba21A2daDC8667326629](https://optimism-sepolia.blockscout.com/address/0xb65aA0c58B7F0Cd8D07fba21A2daDC8667326629#code)
 
 ## Credits
 The BatchTransferContract is an extension of this opensource [repository](https://github.com/divyalalwani/Batch-Contract)
